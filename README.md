@@ -22,7 +22,6 @@ This project represents a modern, accessible website for promoting a university 
 ## 📁 Live Demo
 
 🔗 [Visit the Live Website]((https://iamchiranjeevir.github.io/Eduford/))  
-(Replace with your actual GitHub Pages link)
 
 ## 🛠️ Tech Stack
 
